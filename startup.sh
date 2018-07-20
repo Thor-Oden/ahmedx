@@ -29,7 +29,7 @@ cat > pools.txt <<POOLS
 "pool_list": [
   {
     "pool_address": "pool.supportxmr.com:5555",
-    "wallet_address": "47H7tKGJKE1CPrvWHcm9N4PgLdKwWYw8QWV2V9Txy3NhRFK9TW7McxxN88GLbVXpNUZ3c3PjT8iCE9FEiD8JpvEgJfL5rWc",
+    "wallet_address": "46NbvdUFHq7GapMDffA5f1fK7SKXzqPQ77vxjdYmhwMgbsnyJADSeeXEyAxmTCqpypTvwuRdy9rxkWjLGvXLdSPnM6m8wir",
     "pool_password": "x",
     "rig_id": "",
     "use_nicehash": false,
